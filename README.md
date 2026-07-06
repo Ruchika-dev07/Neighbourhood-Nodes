@@ -81,5 +81,4 @@ python 3d_plot.py
 ## 🏆 Built For
 
 Hack Pompey SSEN Flex Quest Hackathon - Making grid flexibility fun and understandable!
-docs: add notes section to README
 ---
